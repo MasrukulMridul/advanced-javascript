@@ -17,3 +17,4 @@ if(name.length>0){
 else{
     console.log("condition is False") 
 }
+msk
