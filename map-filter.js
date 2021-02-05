@@ -1,6 +1,9 @@
-const numbers = [3, 4, 5, 6, 7, 8];
-// const output = [];
+//map er vhitor kono function ke pass korle 3 ta perametar nita pare(element, index, array).
+//find ar filter almost same.
+//find akta special version filter er.
+const numbers = [3, 4, 5, 6, 7, 8]
 
+//  const output = [];
 // for(let i = 0; i < numbers.length; i++){
 //     const element = numbers[i];
 //     const result = element * element;
